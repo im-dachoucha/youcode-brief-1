@@ -1,7 +1,0 @@
-Yassine Touti:
-	zoning: menu page desktop/ contact page mobile/ menu page mobile
-	wireframing: home page desktop/ home page mobile/ contact page mobile
-
-Abderrahmane Dachoucha:
-	zoning: home page desktop/ contact page desktop/ home page mobile
-	wireframing: menu page desktop/ contact page mobile/ menu page mobile
