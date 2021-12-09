@@ -13,3 +13,13 @@ Abderrahmane Dachoucha:
 -zoning: home page desktop/ contact page desktop/ home page mobile
 -wireframing: menu page desktop/ contact page mobile/ menu page mobile
 -prototype: main menu page desktop/ menu page desktop/ contact page desktop/ home page mobile/ menu mobile
+
+## Demo
+
+### Desktop
+
+![](demo/desktop.gif)
+
+### Mobile
+
+![](demo/mobile.gif)
