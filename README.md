@@ -18,8 +18,8 @@ Abderrahmane Dachoucha:
 
 ### Desktop
 
-![](demo/desktop.gif)
+![](./demos/desktop.gif)
 
 ### Mobile
 
-![](demo/mobile.gif)
+![](./demos/mobile.gif)
