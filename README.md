@@ -23,3 +23,6 @@ Abderrahmane Dachoucha:
 ### Mobile
 
 ![](./demos/mobile.gif)
+
+### figma link
+https://www.figma.com/file/XSeuksp4O5vxZEwUBrb9Sc/restaurant-brief
